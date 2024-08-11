@@ -1,5 +1,7 @@
+import Catalog from "./routes/Catalog";
+
 export default function App(){
   return(
-    <h1>Oi</h1>
+    <Catalog/>
   );
 }
